@@ -53,7 +53,9 @@ button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
-
+.title{
+  margin-bottom: 400px;
+}
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
